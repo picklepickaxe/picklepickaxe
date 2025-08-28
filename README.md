@@ -1,4 +1,4 @@
-Halo! I'm Aviral.
+## Halo! I'm Aviral.
 I'm a Sophomore at IGDTUW, pursuing my Bachelor in Information Technology
 
 ╰┈➤ I have experience working with React.js and Tailwind CSS, and I’m familiar with integrating APIs to build AI-powered applications.  
